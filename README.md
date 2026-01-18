@@ -20,5 +20,7 @@ The application collects structured resume information such as personal details,
 ## Project Type
 Web Application (Localhost)
 
+Live Demo: https://7aa6yjcqpq77kppjew6ray.streamlit.app/
+
 
 
