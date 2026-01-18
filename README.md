@@ -20,8 +20,5 @@ The application collects structured resume information such as personal details,
 ## Project Type
 Web Application (Localhost)
 
-## How to Run the Project
-1. Install the required dependencies:
-```bash
-pip install -r requirements.txt
+
 
